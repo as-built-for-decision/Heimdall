@@ -107,4 +107,4 @@ dist
 /public/libs/Cesium/Assets/*
 /public/libs/Cesium/Widgets/Images/*
 
-*.bin
+public/pointclouds/octree.bin
