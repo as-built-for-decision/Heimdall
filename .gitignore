@@ -110,3 +110,5 @@ dist
 public/pointclouds/octree.bin
 
 .firebase
+next-env.d.ts
+yarn.lock
