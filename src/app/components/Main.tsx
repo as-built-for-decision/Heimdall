@@ -11,10 +11,10 @@ function Main() {
   const [selected, setSelected] = useState<Coordinate>(null!);
   const { setCameraPosition } = useSceneStore();
 
-  // useEffect(() => {
-  //   if (!selected) return;
-  //   setCameraPosition(selected.position);
-  // }, [selected]);
+  useEffect(() => {
+    if (!selected) return;
+    setCameraPosition(selected.position);
+  }, [selected]);
 
   useEffect(() => {
     setCameraPosition(
