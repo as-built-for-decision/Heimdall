@@ -108,3 +108,5 @@ dist
 /public/libs/Cesium/Widgets/Images/*
 
 public/pointclouds/octree.bin
+
+.firebase

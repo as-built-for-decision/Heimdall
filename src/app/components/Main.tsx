@@ -7,25 +7,24 @@ import * as THREE from "three";
 
 function Main() {
   const [coordinates, setCoordinates] = useState<Coordinate[]>(null!);
-  const { camera, viewer, scene } = useSceneStore();
   const [selectedCoordinate, setSelectedCoordinate] = useState<Coordinate>(
     null!
   );
-  const [cameraPosition, setCameraPosition] = useState<THREE.Vector3>(
-    new THREE.Vector3(
-      -2.974597692489624,
-      -62.673194885253906,
-      1.6231589317321777
-    )
-  );
+  const { setCameraPosition } = useSceneStore();
+
+  // useEffect(() => {
+  //   if (!selectedCoordinate) return;
+  //   setCameraPosition(selectedCoordinate.position);
+  // }, [selectedCoordinate]);
 
   useEffect(() => {
-    if (!selectedCoordinate) return;
-    setCameraPosition(selectedCoordinate.position);
-  }, [selectedCoordinate]);
-
-  useEffect(() => {
-    console.log(coordinates);
+    setCameraPosition(
+      new THREE.Vector3(
+        -2.974597692489624,
+        -62.673194885253906,
+        1.6231589317321777
+      )
+    );
   }, [coordinates]);
 
   return (
@@ -77,9 +76,10 @@ interface SphereProps extends MeshProps {
 function addSphere({ scene, position }: SphereProps) {
   position ??= new THREE.Vector3(0, 0, 0);
   const testSphere = new THREE.IcosahedronGeometry(0.5, 3);
-  const testMaterial = new THREE.MeshBasicMaterial({
+  const testMaterial = new THREE.MeshStandardMaterial({
     color: 0xff0000,
     side: THREE.FrontSide,
+    emissive: 0xff0000,
   });
   const testMesh = new THREE.Mesh(testSphere, testMaterial);
   testMesh.position.set(position.x, position.y, position.z);
@@ -88,14 +88,13 @@ function addSphere({ scene, position }: SphereProps) {
 }
 
 function Sphere(props: MeshProps) {
-  const ref = useRef<any>();
+  const ref = useRef<THREE.Mesh>();
   const { scene } = useSceneStore();
   ref.current = useMemo(() => {
-    if (!scene) return;
-    addSphere({
+    if (!scene || ref.current) return;
+    return addSphere({
       scene,
       position: props.position as THREE.Vector3,
-      onClick: props.onClick,
     });
   }, [props]);
   return <></>;
