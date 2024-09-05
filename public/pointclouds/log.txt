@@ -1,306 +1,1403 @@
-INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras00010_-2,974597692489624_-62,673194885253906_1,6231589317321777.las, first point: 0, num points: 1'000'000
-INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras00010_-2,974597692489624_-62,673194885253906_1,6231589317321777.las, first point: 1'000'000, num points: 1'000'000
-INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras00010_-2,974597692489624_-62,673194885253906_1,6231589317321777.las, first point: 3'000'000, num points: 1'000'000
-INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras00010_-2,974597692489624_-62,673194885253906_1,6231589317321777.las, first point: 4'000'000, num points: 1'000'000
-INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras00010_-2,974597692489624_-62,673194885253906_1,6231589317321777.las, first point: 5'000'000, num points: 168'374
-INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras00010_-2,974597692489624_-62,673194885253906_1,6231589317321777.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 15'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 16'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 17'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 18'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 19'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 20'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 21'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 22'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 28'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 30'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 26'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 23'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 29'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 31'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 25'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 27'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 24'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 32'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 34'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 36'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 33'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 35'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 37'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 41'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 38'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 43'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 42'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 44'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 39'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 40'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 45'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 48'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 49'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 46'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 50'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 51'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 47'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 54'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 56'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 57'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 53'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 52'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 55'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 58'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 59'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 60'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 61'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 62'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 63'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 65'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 66'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 67'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 68'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 64'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 69'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 72'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 70'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 71'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 76'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 74'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 77'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 79'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 80'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 78'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 75'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 73'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 82'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 81'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 83'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 84'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 85'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 86'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 88'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 87'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 89'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 91'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 90'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 92'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 94'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 93'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 95'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 97'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 98'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 99'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 96'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 100'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 101'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 103'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 102'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 104'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 105'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 106'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 109'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 107'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 110'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 108'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 111'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 114'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 112'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 113'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 115'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 117'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 116'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 118'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 119'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 120'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 121'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 122'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 123'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 124'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 125'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 126'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 128'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 127'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 131'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 129'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 130'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 132'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 134'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 133'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 135'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 137'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 136'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 139'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 138'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 140'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 142'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 141'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 143'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 144'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 146'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 145'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 148'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 147'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 149'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 150'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 151'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 152'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 153'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 154'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 155'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 156'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 157'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 159'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 158'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 160'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 164'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 163'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 161'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 162'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 165'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 170'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 168'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 169'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 167'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 166'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 171'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 172'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 173'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 174'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 177'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 175'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 176'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 178'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 179'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 180'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 182'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 181'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 183'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 185'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 184'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 186'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 187'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 188'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 190'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 189'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 192'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 193'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 194'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 191'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 195'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 198'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 197'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 196'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 201'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 199'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 203'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 200'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 202'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 204'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 208'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 207'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 206'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 205'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 209'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 211'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 210'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 212'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 214'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 213'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 215'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 217'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 218'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 216'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 219'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 220'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 222'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 223'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 221'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 224'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 225'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 226'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 227'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 229'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 228'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 230'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 231'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 235'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 232'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 233'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 236'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 238'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 237'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 234'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 242'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 239'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 240'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 241'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 243'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 244'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 245'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 248'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 246'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 247'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 249'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 250'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 251'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 253'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 252'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 254'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 255'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 256'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 257'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 258'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 259'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 260'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 261'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 262'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 263'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 264'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 267'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 265'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 266'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 268'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 269'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 271'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 270'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 275'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 273'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 274'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 272'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 276'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 278'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 279'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 277'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 281'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 282'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 280'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 284'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 283'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 285'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 287'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 286'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 288'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 290'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 291'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 289'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 292'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 293'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 295'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 296'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 294'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 298'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 299'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 297'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 301'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 300'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 302'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 303'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 304'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 305'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 309'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 310'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 306'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 308'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 307'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 311'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 313'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 312'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 314'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 315'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 317'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 316'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 318'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 320'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 319'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 321'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 323'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 322'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 324'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 325'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 328'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 327'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 326'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 329'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 332'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 331'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 330'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 336'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 335'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 333'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 334'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 338'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 337'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 341'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 340'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 339'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 342'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 343'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 344'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 345'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 349'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 351'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 347'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 348'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 346'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 350'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 352'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 353'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 354'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 355'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 356'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 357'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 358'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 359'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 360'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 361'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 364'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 362'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 365'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 366'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 363'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 367'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 368'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 371'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 369'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 370'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 372'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 373'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 374'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 375'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 376'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 377'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 380'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 378'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 381'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 379'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 382'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 383'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 384'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 385'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 386'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 387'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 389'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 388'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 390'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 391'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 392'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 395'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 394'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 396'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 393'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 397'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 399'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 401'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 398'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 400'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 403'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 404'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 402'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 405'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 407'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 406'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 408'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 410'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 409'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 412'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 411'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 414'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 413'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 415'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 416'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 417'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 418'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 419'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 423'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 420'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 421'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 422'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 426'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 424'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 427'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 425'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 428'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 429'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 430'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 432'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 431'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 433'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 434'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 436'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 438'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 435'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 437'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 439'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 440'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 442'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 443'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 441'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 444'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 445'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 446'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 447'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 448'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 449'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 450'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 451'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 453'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 452'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 454'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 455'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 457'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 456'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 458'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 460'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 462'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 459'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 461'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 464'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 463'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 465'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 466'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 467'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 469'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 468'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 470'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 473'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 471'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 472'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 474'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 475'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 476'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 477'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 478'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 479'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 482'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 480'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 481'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 483'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 486'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 484'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 485'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 487'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 489'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 488'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 492'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 490'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 491'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 496'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 495'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 493'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 494'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 499'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 498'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 497'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 500'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 501'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 502'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 505'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 504'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 503'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 507'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 509'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 508'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 506'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 510'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 511'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 513'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 512'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 514'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 515'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 516'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 517'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 518'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 519'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 520'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 521'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 522'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 523'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 525'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 524'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 526'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting 2024Pedras_Denso_Texturizado_CC_Alinhado_Limpo.las, first point: 527'000'000, num points: 850'886
 INFO(indexer.cpp:1656): start indexing chunk r00
-filesize: 420'606
-min: -50.816000000000003, -104.413, -0.86399999999999999
-max: -15.534750000000003, -69.131749999999997, 34.417250000000003
-INFO(indexer.cpp:1656): start indexing chunk r02
-filesize: 276'507
-min: -50.816000000000003, -69.131749999999997, -0.86399999999999999
-max: -15.534750000000003, -33.850499999999997, 34.417250000000003
+filesize: 252'933'170
+min: -248.6627, -345.4282, -6.5913000000000004
+max: -94.83612500000001, -191.60162500000001, 147.235275
+INFO(indexer.cpp:1656): start indexing chunk r020
+filesize: 12'680'710
+min: -248.6627, -191.60162500000001, -6.5913000000000004
+max: -171.74941250000001, -114.68833750000002, 70.321987499999992
+INFO(indexer.cpp:1656): start indexing chunk r022
+filesize: 9'568'930
+min: -248.6627, -114.68833750000002, -6.5913000000000004
+max: -171.74941250000001, -37.775050000000022, 70.321987499999992
+INFO(indexer.cpp:1656): start indexing chunk r024
+filesize: 291'425'820
+min: -171.74941250000001, -191.60162500000001, -6.5913000000000004
+max: -94.83612500000001, -114.68833750000002, 70.321987499999992
+INFO(indexer.cpp:1656): start indexing chunk r026
+filesize: 260'466'430
+min: -171.74941250000001, -114.68833750000002, -6.5913000000000004
+max: -94.83612500000001, -37.775050000000022, 70.321987499999992
 INFO(indexer.cpp:1656): start indexing chunk r040
-filesize: 4'239
-min: -15.534750000000003, -104.413, -0.86399999999999999
-max: 2.1058749999999975, -86.772374999999997, 16.776624999999999
+filesize: 4'433'380
+min: -94.83612500000001, -345.4282, -6.5913000000000004
+max: -17.922837500000014, -268.51491250000004, 70.321987499999992
+INFO(indexer.cpp:1656): start indexing chunk r044
+filesize: 730'205
+min: -17.922837500000014, -345.4282, -6.5913000000000004
+max: 58.990449999999981, -268.51491250000004, 70.321987499999992
 INFO(indexer.cpp:1656): start indexing chunk r042
-filesize: 5'912'568
-min: -15.534750000000003, -86.772374999999997, -0.86399999999999999
-max: 2.1058749999999975, -69.131749999999997, 16.776624999999999
-INFO(indexer.cpp:1699): finished indexing chunk r040
-INFO(indexer.cpp:1656): start indexing chunk r06000
-filesize: 948'942
-min: -15.534750000000003, -69.131749999999997, -0.86399999999999999
-max: -11.124593750000003, -64.721593749999997, 3.5461562500000001
-INFO(indexer.cpp:1656): start indexing chunk r046
-filesize: 2'356'047
-min: 2.1058749999999975, -86.772374999999997, -0.86399999999999999
-max: 19.746499999999997, -69.131749999999997, 16.776624999999999
-INFO(indexer.cpp:1656): start indexing chunk r06001
-filesize: 677'781
-min: -15.534750000000003, -69.131749999999997, 3.5461562500000001
-max: -11.124593750000003, -64.721593749999997, 7.9563125000000001
-INFO(indexer.cpp:1656): start indexing chunk r06002
-filesize: 1'421'091
-min: -15.534750000000003, -64.721593749999997, -0.86399999999999999
-max: -11.124593750000003, -60.311437499999997, 3.5461562500000001
-INFO(indexer.cpp:1656): start indexing chunk r06003
-filesize: 964'791
-min: -15.534750000000003, -64.721593749999997, 3.5461562500000001
-max: -11.124593750000003, -60.311437499999997, 7.9563125000000001
-INFO(indexer.cpp:1656): start indexing chunk r06004
-filesize: 652'293
-min: -11.124593750000003, -69.131749999999997, -0.86399999999999999
-max: -6.7144375000000025, -64.721593749999997, 3.5461562500000001
-INFO(indexer.cpp:1656): start indexing chunk r06006
-filesize: 1'489'779
-min: -11.124593750000003, -64.721593749999997, -0.86399999999999999
-max: -6.7144375000000025, -60.311437499999997, 3.5461562500000001
-INFO(indexer.cpp:1656): start indexing chunk r0602
-filesize: 4'510'485
-min: -15.534750000000003, -60.311437499999997, -0.86399999999999999
-max: -6.7144375000000025, -51.491124999999997, 7.9563125000000001
-INFO(indexer.cpp:1656): start indexing chunk r06040
-filesize: 6'586'650
-min: -6.7144375000000025, -69.131749999999997, -0.86399999999999999
-max: -2.3042812500000025, -64.721593749999997, 3.5461562500000001
-INFO(indexer.cpp:1656): start indexing chunk r06005
-filesize: 1'240'191
-min: -11.124593750000003, -69.131749999999997, 3.5461562500000001
-max: -6.7144375000000025, -64.721593749999997, 7.9563125000000001
-INFO(indexer.cpp:1656): start indexing chunk r06041
-filesize: 4'872'204
-min: -6.7144375000000025, -69.131749999999997, 3.5461562500000001
-max: -2.3042812500000025, -64.721593749999997, 7.9563125000000001
-INFO(indexer.cpp:1656): start indexing chunk r06007
-filesize: 2'498'364
-min: -11.124593750000003, -64.721593749999997, 3.5461562500000001
-max: -6.7144375000000025, -60.311437499999997, 7.9563125000000001
-INFO(indexer.cpp:1699): finished indexing chunk r02
-INFO(indexer.cpp:1656): start indexing chunk r0604240
-filesize: 1'837'107
-min: -4.5093593750000025, -64.721593749999997, -0.86399999999999999
-max: -3.4068203125000025, -63.619054687499997, 0.23853906250000001
-INFO(indexer.cpp:1656): start indexing chunk r060420
-filesize: 2'756'214
-min: -6.7144375000000025, -64.721593749999997, -0.86399999999999999
-max: -4.5093593750000025, -62.516515624999997, 1.3410781250000001
-INFO(indexer.cpp:1656): start indexing chunk r060422
-filesize: 2'440'854
-min: -6.7144375000000025, -62.516515624999997, -0.86399999999999999
-max: -4.5093593750000025, -60.311437499999997, 1.3410781250000001
-INFO(indexer.cpp:1699): finished indexing chunk r00
-INFO(indexer.cpp:1656): start indexing chunk r0604241
-filesize: 17'523
-min: -4.5093593750000025, -64.721593749999997, 0.23853906250000001
-max: -3.4068203125000025, -63.619054687499997, 1.3410781250000001
-INFO(indexer.cpp:1699): finished indexing chunk r0604241
-INFO(indexer.cpp:1656): start indexing chunk r0604242
-filesize: 2'858'922
-min: -4.5093593750000025, -63.619054687499997, -0.86399999999999999
-max: -3.4068203125000025, -62.516515624999997, 0.23853906250000001
-INFO(indexer.cpp:1699): finished indexing chunk r06001
-INFO(indexer.cpp:1656): start indexing chunk r0604244
-filesize: 2'621'511
-min: -3.4068203125000025, -64.721593749999997, -0.86399999999999999
-max: -2.3042812500000025, -63.619054687499997, 0.23853906250000001
-INFO(indexer.cpp:1699): finished indexing chunk r06004
-INFO(indexer.cpp:1656): start indexing chunk r0604260
-filesize: 2'847'933
-min: -4.5093593750000025, -62.516515624999997, -0.86399999999999999
-max: -3.4068203125000025, -61.413976562499997, 0.23853906250000001
-INFO(indexer.cpp:1656): start indexing chunk r0604246
-filesize: 803'952
-min: -3.4068203125000025, -63.619054687499997, -0.86399999999999999
-max: -2.3042812500000025, -62.516515624999997, 0.23853906250000001
-INFO(indexer.cpp:1699): finished indexing chunk r06000
-INFO(indexer.cpp:1699): finished indexing chunk r06003
-INFO(indexer.cpp:1656): start indexing chunk r0604262
-filesize: 1'256'121
-min: -4.5093593750000025, -61.413976562499997, -0.86399999999999999
-max: -3.4068203125000025, -60.311437499999997, 0.23853906250000001
-INFO(indexer.cpp:1699): finished indexing chunk r06005
-INFO(indexer.cpp:1699): finished indexing chunk r06006
-INFO(indexer.cpp:1656): start indexing chunk r0604264
-filesize: 2'450'547
-min: -3.4068203125000025, -62.516515624999997, -0.86399999999999999
-max: -2.3042812500000025, -61.413976562499997, 0.23853906250000001
-INFO(indexer.cpp:1699): finished indexing chunk r06002
-INFO(indexer.cpp:1656): start indexing chunk r0604266
-filesize: 1'642'059
-min: -3.4068203125000025, -61.413976562499997, -0.86399999999999999
-max: -2.3042812500000025, -60.311437499999997, 0.23853906250000001
-INFO(indexer.cpp:1656): start indexing chunk r060432
-filesize: 2'401'947
-min: -6.7144375000000025, -62.516515624999997, 3.5461562500000001
-max: -4.5093593750000025, -60.311437499999997, 5.7512343750000001
-INFO(indexer.cpp:1656): start indexing chunk r0604341
-filesize: 1'433'511
-min: -4.5093593750000025, -64.721593749999997, 4.6486953125000001
-max: -3.4068203125000025, -63.619054687499997, 5.7512343750000001
-INFO(indexer.cpp:1656): start indexing chunk r060430
-filesize: 2'513'160
-min: -6.7144375000000025, -64.721593749999997, 3.5461562500000001
-max: -4.5093593750000025, -62.516515624999997, 5.7512343750000001
-INFO(indexer.cpp:1699): finished indexing chunk r046
-INFO(indexer.cpp:1699): finished indexing chunk r0604262
-INFO(indexer.cpp:1699): finished indexing chunk r0604246
-INFO(indexer.cpp:1656): start indexing chunk r0604343
-filesize: 2'625'453
-min: -4.5093593750000025, -63.619054687499997, 4.6486953125000001
-max: -3.4068203125000025, -62.516515624999997, 5.7512343750000001
-INFO(indexer.cpp:1656): start indexing chunk r0604345
-filesize: 1'511'730
-min: -3.4068203125000025, -64.721593749999997, 4.6486953125000001
-max: -2.3042812500000025, -63.619054687499997, 5.7512343750000001
-INFO(indexer.cpp:1656): start indexing chunk r0604347
-filesize: 1'647'675
-min: -3.4068203125000025, -63.619054687499997, 4.6486953125000001
-max: -2.3042812500000025, -62.516515624999997, 5.7512343750000001
-INFO(indexer.cpp:1656): start indexing chunk r060436
-filesize: 6'977'151
-min: -4.5093593750000025, -62.516515624999997, 3.5461562500000001
-max: -2.3042812500000025, -60.311437499999997, 5.7512343750000001
-INFO(indexer.cpp:1699): finished indexing chunk r06007
-INFO(indexer.cpp:1699): finished indexing chunk r060422
-INFO(indexer.cpp:1699): finished indexing chunk r0604244
-INFO(indexer.cpp:1699): finished indexing chunk r060420
-INFO(indexer.cpp:1699): finished indexing chunk r0604240
-INFO(indexer.cpp:1699): finished indexing chunk r0604341
-INFO(indexer.cpp:1699): finished indexing chunk r0604266
-INFO(indexer.cpp:1656): start indexing chunk r06044
-filesize: 2'818'935
-min: -2.3042812500000025, -69.131749999999997, -0.86399999999999999
-max: 2.1058749999999975, -64.721593749999997, 3.5461562500000001
-INFO(indexer.cpp:1656): start indexing chunk r060460
-filesize: 6'143'121
-min: -2.3042812500000025, -64.721593749999997, -0.86399999999999999
-max: -0.099203125000002501, -62.516515624999997, 1.3410781250000001
-INFO(indexer.cpp:1656): start indexing chunk r06045
-filesize: 3'651'723
-min: -2.3042812500000025, -69.131749999999997, 3.5461562500000001
-max: 2.1058749999999975, -64.721593749999997, 7.9563125000000001
-INFO(indexer.cpp:1656): start indexing chunk r060462
-filesize: 5'250'420
-min: -2.3042812500000025, -62.516515624999997, -0.86399999999999999
-max: -0.099203125000002501, -60.311437499999997, 1.3410781250000001
-INFO(indexer.cpp:1699): finished indexing chunk r0604347
-INFO(indexer.cpp:1699): finished indexing chunk r0604242
-INFO(indexer.cpp:1699): finished indexing chunk r0604264
-INFO(indexer.cpp:1699): finished indexing chunk r060432
-INFO(indexer.cpp:1699): finished indexing chunk r0604345
-INFO(indexer.cpp:1699): finished indexing chunk r0604260
-INFO(indexer.cpp:1699): finished indexing chunk r0604343
-INFO(indexer.cpp:1656): start indexing chunk r060476
-filesize: 1'301'940
-min: -0.099203125000002501, -62.516515624999997, 3.5461562500000001
-max: 2.1058749999999975, -60.311437499999997, 5.7512343750000001
-INFO(indexer.cpp:1656): start indexing chunk r060470
-filesize: 4'643'622
-min: -2.3042812500000025, -64.721593749999997, 3.5461562500000001
-max: -0.099203125000002501, -62.516515624999997, 5.7512343750000001
-INFO(indexer.cpp:1656): start indexing chunk r060474
-filesize: 1'335'231
-min: -0.099203125000002501, -64.721593749999997, 3.5461562500000001
-max: 2.1058749999999975, -62.516515624999997, 5.7512343750000001
-INFO(indexer.cpp:1656): start indexing chunk r060466
-filesize: 912'978
-min: -0.099203125000002501, -62.516515624999997, -0.86399999999999999
-max: 2.1058749999999975, -60.311437499999997, 1.3410781250000001
-INFO(indexer.cpp:1656): start indexing chunk r060464
-filesize: 971'919
-min: -0.099203125000002501, -64.721593749999997, -0.86399999999999999
-max: 2.1058749999999975, -62.516515624999997, 1.3410781250000001
-INFO(indexer.cpp:1656): start indexing chunk r060472
-filesize: 4'460'589
-min: -2.3042812500000025, -62.516515624999997, 3.5461562500000001
-max: -0.099203125000002501, -60.311437499999997, 5.7512343750000001
-INFO(indexer.cpp:1699): finished indexing chunk r060430
-INFO(indexer.cpp:1656): start indexing chunk r06060
-filesize: 6'584'166
-min: -6.7144375000000025, -60.311437499999997, -0.86399999999999999
-max: -2.3042812500000025, -55.901281249999997, 3.5461562500000001
-INFO(indexer.cpp:1656): start indexing chunk r06061
-filesize: 4'923'099
-min: -6.7144375000000025, -60.311437499999997, 3.5461562500000001
-max: -2.3042812500000025, -55.901281249999997, 7.9563125000000001
-INFO(indexer.cpp:1656): start indexing chunk r06062
-filesize: 51'894
-min: -6.7144375000000025, -55.901281249999997, -0.86399999999999999
-max: -2.3042812500000025, -51.491124999999997, 3.5461562500000001
-INFO(indexer.cpp:1699): finished indexing chunk r06062
-INFO(indexer.cpp:1656): start indexing chunk r06064
-filesize: 4'427'028
-min: -2.3042812500000025, -60.311437499999997, -0.86399999999999999
-max: 2.1058749999999975, -55.901281249999997, 3.5461562500000001
-INFO(indexer.cpp:1699): finished indexing chunk r060466
-INFO(indexer.cpp:1656): start indexing chunk r06065
-filesize: 3'842'451
-min: -2.3042812500000025, -60.311437499999997, 3.5461562500000001
-max: 2.1058749999999975, -55.901281249999997, 7.9563125000000001
-INFO(indexer.cpp:1699): finished indexing chunk r060464
-INFO(indexer.cpp:1699): finished indexing chunk r06041
-INFO(indexer.cpp:1656): start indexing chunk r06066
-filesize: 232'092
-min: -2.3042812500000025, -55.901281249999997, -0.86399999999999999
-max: 2.1058749999999975, -51.491124999999997, 3.5461562500000001
-INFO(indexer.cpp:1699): finished indexing chunk r06066
-INFO(indexer.cpp:1699): finished indexing chunk r060476
-INFO(indexer.cpp:1699): finished indexing chunk r060474
-INFO(indexer.cpp:1699): finished indexing chunk r0602
-INFO(indexer.cpp:1656): start indexing chunk r06067
-filesize: 38'259
-min: -2.3042812500000025, -55.901281249999997, 3.5461562500000001
-max: 2.1058749999999975, -51.491124999999997, 7.9563125000000001
+filesize: 245'872'340
+min: -94.83612500000001, -268.51491250000004, -6.5913000000000004
+max: -17.922837500000014, -191.60162500000001, 70.321987499999992
+INFO(indexer.cpp:1656): start indexing chunk r0460
+filesize: 45'541'755
+min: -17.922837500000014, -268.51491250000004, -6.5913000000000004
+max: 20.533806249999984, -230.05826875000002, 31.865343749999997
+INFO(indexer.cpp:1656): start indexing chunk r0462
+filesize: 295'029'910
+min: -17.922837500000014, -230.05826875000002, -6.5913000000000004
+max: 20.533806249999984, -191.60162500000001, 31.865343749999997
+INFO(indexer.cpp:1656): start indexing chunk r0464
+filesize: 1'100'960
+min: 20.533806249999984, -268.51491250000004, -6.5913000000000004
+max: 58.990449999999981, -230.05826875000002, 31.865343749999997
+INFO(indexer.cpp:1656): start indexing chunk r0466
+filesize: 20'775'755
+min: 20.533806249999984, -230.05826875000002, -6.5913000000000004
+max: 58.990449999999981, -191.60162500000001, 31.865343749999997
+INFO(indexer.cpp:1656): start indexing chunk r060
+filesize: 21'236'635
+min: -94.83612500000001, -191.60162500000001, -6.5913000000000004
+max: -17.922837500000014, -114.68833750000002, 70.321987499999992
 INFO(indexer.cpp:1656): start indexing chunk r062
-filesize: 1'536'111
-min: -15.534750000000003, -51.491124999999997, -0.86399999999999999
-max: 2.1058749999999975, -33.850499999999997, 16.776624999999999
-INFO(indexer.cpp:1656): start indexing chunk r0640
-filesize: 5'277'798
-min: 2.1058749999999975, -69.131749999999997, -0.86399999999999999
-max: 10.926187499999997, -60.311437499999997, 7.9563125000000001
-INFO(indexer.cpp:1699): finished indexing chunk r06067
-INFO(indexer.cpp:1656): start indexing chunk r0642
-filesize: 2'238'327
-min: 2.1058749999999975, -60.311437499999997, -0.86399999999999999
-max: 10.926187499999997, -51.491124999999997, 7.9563125000000001
-INFO(indexer.cpp:1656): start indexing chunk r0644
-filesize: 119'556
-min: 10.926187499999997, -69.131749999999997, -0.86399999999999999
-max: 19.746499999999997, -60.311437499999997, 7.9563125000000001
-INFO(indexer.cpp:1699): finished indexing chunk r0644
-INFO(indexer.cpp:1656): start indexing chunk r0646
-filesize: 188'190
-min: 10.926187499999997, -60.311437499999997, -0.86399999999999999
-max: 19.746499999999997, -51.491124999999997, 7.9563125000000001
-INFO(indexer.cpp:1699): finished indexing chunk r0646
-INFO(indexer.cpp:1656): start indexing chunk r066
-filesize: 849'663
-min: 2.1058749999999975, -51.491124999999997, -0.86399999999999999
-max: 19.746499999999997, -33.850499999999997, 16.776624999999999
-INFO(indexer.cpp:1656): start indexing chunk r2
-filesize: 37'530
-min: -50.816000000000003, -33.850499999999997, -0.86399999999999999
-max: 19.746499999999997, 36.712000000000003, 69.698499999999996
-INFO(indexer.cpp:1699): finished indexing chunk r2
-INFO(indexer.cpp:1699): finished indexing chunk r06040
+filesize: 153'243'300
+min: -94.83612500000001, -114.68833750000002, -6.5913000000000004
+max: -17.922837500000014, -37.775050000000022, 70.321987499999992
+INFO(indexer.cpp:1656): start indexing chunk r06400
+filesize: 965'195
+min: -17.922837500000014, -191.60162500000001, -6.5913000000000004
+max: 1.3054843749999847, -172.37330312500001, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06402
+filesize: 152'349'400
+min: -17.922837500000014, -172.37330312500001, -6.5913000000000004
+max: 1.3054843749999847, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06404
+filesize: 200'209'555
+min: 1.3054843749999847, -191.60162500000001, -6.5913000000000004
+max: 20.533806249999984, -172.37330312500001, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06406
+filesize: 194'848'710
+min: 1.3054843749999847, -172.37330312500001, -6.5913000000000004
+max: 20.533806249999984, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06407
+filesize: 35
+min: 1.3054843749999847, -172.37330312500001, 12.637021874999999
+max: 20.533806249999984, -153.14498125, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r06407
+INFO(indexer.cpp:1656): start indexing chunk r06420
+filesize: 155'881'740
+min: -17.922837500000014, -153.14498125, -6.5913000000000004
+max: 1.3054843749999847, -133.91665937499999, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06422
+filesize: 119'635'880
+min: -17.922837500000014, -133.91665937499999, -6.5913000000000004
+max: 1.3054843749999847, -114.68833750000002, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06426
+filesize: 157'699'115
+min: 1.3054843749999847, -133.91665937499999, -6.5913000000000004
+max: 20.533806249999984, -114.68833750000002, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06424
+filesize: 179'768'645
+min: 1.3054843749999847, -153.14498125, -6.5913000000000004
+max: 20.533806249999984, -133.91665937499999, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06440
+filesize: 94'612'385
+min: 20.533806249999984, -191.60162500000001, -6.5913000000000004
+max: 39.762128124999983, -172.37330312500001, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06441
+filesize: 1'155
+min: 20.533806249999984, -191.60162500000001, 12.637021874999999
+max: 39.762128124999983, -172.37330312500001, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r044
+INFO(indexer.cpp:1656): start indexing chunk r06442
+filesize: 238'941'360
+min: 20.533806249999984, -172.37330312500001, -6.5913000000000004
+max: 39.762128124999983, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06444
+filesize: 879'270
+min: 39.762128124999983, -191.60162500000001, -6.5913000000000004
+max: 58.990449999999981, -172.37330312500001, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06441
+INFO(indexer.cpp:1656): start indexing chunk r06460
+filesize: 216'057'100
+min: 20.533806249999984, -153.14498125, -6.5913000000000004
+max: 39.762128124999983, -133.91665937499999, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06462
+filesize: 75'977'405
+min: 20.533806249999984, -133.91665937499999, -6.5913000000000004
+max: 39.762128124999983, -114.68833750000002, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06446
+filesize: 265'928'565
+min: 39.762128124999983, -172.37330312500001, -6.5913000000000004
+max: 58.990449999999981, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06464
+filesize: 221'863'985
+min: 39.762128124999983, -153.14498125, -6.5913000000000004
+max: 58.990449999999981, -133.91665937499999, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06600
+filesize: 128'595'145
+min: -17.922837500000014, -114.68833750000002, -6.5913000000000004
+max: 1.3054843749999847, -95.460015625000011, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06602
+filesize: 136'573'290
+min: -17.922837500000014, -95.460015625000011, -6.5913000000000004
+max: 1.3054843749999847, -76.231693750000019, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r06606
+filesize: 134'173'585
+min: 1.3054843749999847, -95.460015625000011, -6.5913000000000004
+max: 20.533806249999984, -76.231693750000019, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r066200
+filesize: 16'726'255
+min: -17.922837500000014, -76.231693750000019, -6.5913000000000004
+max: -8.3086765625000147, -66.617532812500016, 3.0228609374999991
+INFO(indexer.cpp:1656): start indexing chunk r06604
+filesize: 133'998'515
+min: 1.3054843749999847, -114.68833750000002, -6.5913000000000004
+max: 20.533806249999984, -95.460015625000011, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06400
+INFO(indexer.cpp:1656): start indexing chunk r066201
+filesize: 40'887'070
+min: -17.922837500000014, -76.231693750000019, 3.0228609374999991
+max: -8.3086765625000147, -66.617532812500016, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r0662021
+filesize: 29'896'545
+min: -17.922837500000014, -66.617532812500016, -1.7842195312500007
+max: -13.115757031250014, -61.810452343750015, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r0464
+INFO(indexer.cpp:1656): start indexing chunk r0662023
+filesize: 239'752'065
+min: -17.922837500000014, -61.810452343750015, -1.7842195312500007
+max: -13.115757031250014, -57.00337187500002, 3.0228609374999991
+INFO(indexer.cpp:1656): start indexing chunk r0662025
+filesize: 7'015'015
+min: -13.115757031250014, -66.617532812500016, -1.7842195312500007
+max: -8.3086765625000147, -61.810452343750015, 3.0228609374999991
+INFO(indexer.cpp:1656): start indexing chunk r0662027
+filesize: 205'699'935
+min: -13.115757031250014, -61.810452343750015, -1.7842195312500007
+max: -8.3086765625000147, -57.00337187500002, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r040
+INFO(indexer.cpp:1699): finished indexing chunk r06444
+INFO(indexer.cpp:1656): start indexing chunk r066203
+filesize: 164'394'090
+min: -17.922837500000014, -66.617532812500016, 3.0228609374999991
+max: -8.3086765625000147, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r066204
+filesize: 31'025'960
+min: -8.3086765625000147, -76.231693750000019, -6.5913000000000004
+max: 1.3054843749999847, -66.617532812500016, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r022
+INFO(indexer.cpp:1656): start indexing chunk r066205
+filesize: 44'654'505
+min: -8.3086765625000147, -76.231693750000019, 3.0228609374999991
+max: 1.3054843749999847, -66.617532812500016, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r020
+INFO(indexer.cpp:1656): start indexing chunk r066206
+filesize: 68'315'660
+min: -8.3086765625000147, -66.617532812500016, -6.5913000000000004
+max: 1.3054843749999847, -57.00337187500002, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r0662025
+INFO(indexer.cpp:1656): start indexing chunk r066207
+filesize: 96'163'445
+min: -8.3086765625000147, -66.617532812500016, 3.0228609374999991
+max: 1.3054843749999847, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r066200
+INFO(indexer.cpp:1656): start indexing chunk r06622
+filesize: 120'388'695
+min: -17.922837500000014, -57.00337187500002, -6.5913000000000004
+max: 1.3054843749999847, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r060
+INFO(indexer.cpp:1656): start indexing chunk r06623
+filesize: 20'300
+min: -17.922837500000014, -57.00337187500002, 12.637021874999999
+max: 1.3054843749999847, -37.775050000000022, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r06623
+INFO(indexer.cpp:1656): start indexing chunk r06624
+filesize: 288'126'650
+min: 1.3054843749999847, -76.231693750000019, -6.5913000000000004
+max: 20.533806249999984, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r0466
+INFO(indexer.cpp:1656): start indexing chunk r06625
+filesize: 969'465
+min: 1.3054843749999847, -76.231693750000019, 12.637021874999999
+max: 20.533806249999984, -57.00337187500002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r06625
+INFO(indexer.cpp:1656): start indexing chunk r06626
+filesize: 181'499'080
+min: 1.3054843749999847, -57.00337187500002, -6.5913000000000004
+max: 20.533806249999984, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r066204
+INFO(indexer.cpp:1656): start indexing chunk r06627
+filesize: 1'225
+min: 1.3054843749999847, -57.00337187500002, 12.637021874999999
+max: 20.533806249999984, -37.775050000000022, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r06627
+INFO(indexer.cpp:1656): start indexing chunk r0664
+filesize: 183'692'355
+min: 20.533806249999984, -114.68833750000002, -6.5913000000000004
+max: 58.990449999999981, -76.231693750000019, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r0662021
+INFO(indexer.cpp:1656): start indexing chunk r06660
+filesize: 157'131'625
+min: 20.533806249999984, -76.231693750000019, -6.5913000000000004
+max: 39.762128124999983, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r0460
+INFO(indexer.cpp:1656): start indexing chunk r06661
+filesize: 87'045
+min: 20.533806249999984, -76.231693750000019, 12.637021874999999
+max: 39.762128124999983, -57.00337187500002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r06661
+INFO(indexer.cpp:1656): start indexing chunk r06662
+filesize: 28'272'440
+min: 20.533806249999984, -57.00337187500002, -6.5913000000000004
+max: 39.762128124999983, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r066201
+INFO(indexer.cpp:1656): start indexing chunk r06664
+filesize: 200'921'875
+min: 39.762128124999983, -76.231693750000019, -6.5913000000000004
+max: 58.990449999999981, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r066205
+INFO(indexer.cpp:1656): start indexing chunk r06666
+filesize: 519'050
+min: 39.762128124999983, -57.00337187500002, -6.5913000000000004
+max: 58.990449999999981, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06666
+INFO(indexer.cpp:1656): start indexing chunk r20
+filesize: 162'444'555
+min: -248.6627, -37.775050000000022, -6.5913000000000004
+max: -94.83612500000001, 116.05152499999997, 147.235275
+INFO(indexer.cpp:1699): finished indexing chunk r06662
+INFO(indexer.cpp:1656): start indexing chunk r240
+filesize: 233'552'935
+min: -94.83612500000001, -37.775050000000022, -6.5913000000000004
+max: -17.922837500000014, 39.138237499999974, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r06462
+INFO(indexer.cpp:1656): start indexing chunk r242
+filesize: 282'030
+min: -94.83612500000001, 39.138237499999974, -6.5913000000000004
+max: -17.922837500000014, 116.05152499999997, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r242
+INFO(indexer.cpp:1656): start indexing chunk r244
+filesize: 242'801'790
+min: -17.922837500000014, -37.775050000000022, -6.5913000000000004
+max: 58.990449999999981, 39.138237499999974, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r066206
+INFO(indexer.cpp:1656): start indexing chunk r246
+filesize: 208'460
+min: -17.922837500000014, 39.138237499999974, -6.5913000000000004
+max: 58.990449999999981, 116.05152499999997, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r246
+INFO(indexer.cpp:1656): start indexing chunk r400
+filesize: 27'580
+min: 58.990449999999981, -345.4282, -6.5913000000000004
+max: 135.90373749999998, -268.51491250000004, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r400
+INFO(indexer.cpp:1656): start indexing chunk r402
+filesize: 737'975
+min: 58.990449999999981, -268.51491250000004, -6.5913000000000004
+max: 135.90373749999998, -191.60162500000001, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r402
+INFO(indexer.cpp:1656): start indexing chunk r404
+filesize: 70'875
+min: 135.90373749999998, -345.4282, -6.5913000000000004
+max: 212.81702499999997, -268.51491250000004, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r404
+INFO(indexer.cpp:1656): start indexing chunk r4060
+filesize: 910
+min: 135.90373749999998, -268.51491250000004, -6.5913000000000004
+max: 174.36038124999999, -230.05826875000002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r4060
+INFO(indexer.cpp:1656): start indexing chunk r4062
+filesize: 550'270
+min: 135.90373749999998, -230.05826875000002, -6.5913000000000004
+max: 174.36038124999999, -191.60162500000001, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r4062
+INFO(indexer.cpp:1656): start indexing chunk r4064
+filesize: 2'022'860
+min: 174.36038124999999, -268.51491250000004, -6.5913000000000004
+max: 212.81702499999997, -230.05826875000002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r4064
+INFO(indexer.cpp:1656): start indexing chunk r40660
+filesize: 10'901'975
+min: 174.36038124999999, -230.05826875000002, -6.5913000000000004
+max: 193.58870312499999, -210.82994687500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r40660
+INFO(indexer.cpp:1656): start indexing chunk r40662
+filesize: 332'815
+min: 174.36038124999999, -210.82994687500002, -6.5913000000000004
+max: 193.58870312499999, -191.60162500000001, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r40662
+INFO(indexer.cpp:1656): start indexing chunk r40664
+filesize: 169'622'075
+min: 193.58870312499999, -230.05826875000002, -6.5913000000000004
+max: 212.81702499999997, -210.82994687500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06440
+INFO(indexer.cpp:1656): start indexing chunk r40666
+filesize: 179'114'880
+min: 193.58870312499999, -210.82994687500002, -6.5913000000000004
+max: 212.81702499999997, -191.60162500000001, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06422
+INFO(indexer.cpp:1656): start indexing chunk r4200
+filesize: 316'552'425
+min: 58.990449999999981, -191.60162500000001, -6.5913000000000004
+max: 97.447093749999979, -153.14498125, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r06600
+INFO(indexer.cpp:1656): start indexing chunk r4202
+filesize: 37'795'345
+min: 58.990449999999981, -153.14498125, -6.5913000000000004
+max: 97.447093749999979, -114.68833750000002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r066207
+INFO(indexer.cpp:1656): start indexing chunk r42040
+filesize: 136'108'525
+min: 97.447093749999979, -191.60162500000001, -6.5913000000000004
+max: 116.67541562499997, -172.37330312500001, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06606
+INFO(indexer.cpp:1656): start indexing chunk r42042
+filesize: 290'048'360
+min: 97.447093749999979, -172.37330312500001, -6.5913000000000004
+max: 116.67541562499997, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06602
+INFO(indexer.cpp:1656): start indexing chunk r42044
+filesize: 2'381'015
+min: 116.67541562499997, -191.60162500000001, -6.5913000000000004
+max: 135.90373749999998, -172.37330312500001, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42044
+INFO(indexer.cpp:1656): start indexing chunk r42046
+filesize: 185'827'005
+min: 116.67541562499997, -172.37330312500001, -6.5913000000000004
+max: 135.90373749999998, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06604
+INFO(indexer.cpp:1656): start indexing chunk r4206
+filesize: 162'844'500
+min: 97.447093749999979, -153.14498125, -6.5913000000000004
+max: 135.90373749999998, -114.68833750000002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r06420
+INFO(indexer.cpp:1656): start indexing chunk r4220
+filesize: 95'204'200
+min: 58.990449999999981, -114.68833750000002, -6.5913000000000004
+max: 97.447093749999979, -76.231693750000019, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r06622
+INFO(indexer.cpp:1699): finished indexing chunk r06402
+INFO(indexer.cpp:1656): start indexing chunk r4224
+filesize: 104'305'495
+min: 97.447093749999979, -114.68833750000002, -6.5913000000000004
+max: 135.90373749999998, -76.231693750000019, 31.865343749999997
+INFO(indexer.cpp:1656): start indexing chunk r4222
+filesize: 303'217'495
+min: 58.990449999999981, -76.231693750000019, -6.5913000000000004
+max: 97.447093749999979, -37.775050000000022, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r06426
+INFO(indexer.cpp:1656): start indexing chunk r42260
+filesize: 253'972'320
+min: 97.447093749999979, -76.231693750000019, -6.5913000000000004
+max: 116.67541562499997, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r4202
+INFO(indexer.cpp:1656): start indexing chunk r42262
+filesize: 282'636'025
+min: 97.447093749999979, -57.00337187500002, -6.5913000000000004
+max: 116.67541562499997, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06660
+INFO(indexer.cpp:1656): start indexing chunk r42264
+filesize: 226'451'610
+min: 116.67541562499997, -76.231693750000019, -6.5913000000000004
+max: 135.90373749999998, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06424
+INFO(indexer.cpp:1656): start indexing chunk r42265
+filesize: 707'525
+min: 116.67541562499997, -76.231693750000019, 12.637021874999999
+max: 135.90373749999998, -57.00337187500002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r42265
+INFO(indexer.cpp:1656): start indexing chunk r42266
+filesize: 80'149'160
+min: 116.67541562499997, -57.00337187500002, -6.5913000000000004
+max: 135.90373749999998, -37.775050000000022, 12.637021874999999
 INFO(indexer.cpp:1699): finished indexing chunk r062
-INFO(indexer.cpp:1656): start indexing chunk r4
-filesize: 2'233'251
-min: 19.746499999999997, -104.413, -0.86399999999999999
-max: 90.308999999999997, -33.850499999999997, 69.698499999999996
-INFO(indexer.cpp:1656): start indexing chunk r6
-filesize: 297
-min: 19.746499999999997, -33.850499999999997, -0.86399999999999999
-max: 90.308999999999997, 36.712000000000003, 69.698499999999996
-INFO(indexer.cpp:1699): finished indexing chunk r6
-INFO(indexer.cpp:1699): finished indexing chunk r066
-INFO(indexer.cpp:1699): finished indexing chunk r06044
+INFO(indexer.cpp:1656): start indexing chunk r42267
+filesize: 130'270
+min: 116.67541562499997, -57.00337187500002, 12.637021874999999
+max: 135.90373749999998, -37.775050000000022, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r42267
+INFO(indexer.cpp:1656): start indexing chunk r42400
+filesize: 4'225'550
+min: 135.90373749999998, -191.60162500000001, -6.5913000000000004
+max: 155.13205937499998, -172.37330312500001, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06404
+INFO(indexer.cpp:1699): finished indexing chunk r06406
+INFO(indexer.cpp:1656): start indexing chunk r424020
+filesize: 22'375'185
+min: 135.90373749999998, -172.37330312500001, -6.5913000000000004
+max: 145.51789843749998, -162.7591421875, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r42400
+INFO(indexer.cpp:1656): start indexing chunk r424021
+filesize: 36'434'090
+min: 135.90373749999998, -172.37330312500001, 3.0228609374999991
+max: 145.51789843749998, -162.7591421875, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r424022
+filesize: 33'031'040
+min: 135.90373749999998, -162.7591421875, -6.5913000000000004
+max: 145.51789843749998, -153.14498125, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r06626
+INFO(indexer.cpp:1656): start indexing chunk r424023
+filesize: 45'219'580
+min: 135.90373749999998, -162.7591421875, 3.0228609374999991
+max: 145.51789843749998, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r424020
+INFO(indexer.cpp:1656): start indexing chunk r424024
+filesize: 33'959'275
+min: 145.51789843749998, -172.37330312500001, -6.5913000000000004
+max: 155.13205937499998, -162.7591421875, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r20
+INFO(indexer.cpp:1656): start indexing chunk r424025
+filesize: 63'454'265
+min: 145.51789843749998, -172.37330312500001, 3.0228609374999991
+max: 155.13205937499998, -162.7591421875, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r424022
+INFO(indexer.cpp:1656): start indexing chunk r424026
+filesize: 119'690'865
+min: 145.51789843749998, -162.7591421875, -6.5913000000000004
+max: 155.13205937499998, -153.14498125, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r424021
+INFO(indexer.cpp:1656): start indexing chunk r424027
+filesize: 77'342'230
+min: 145.51789843749998, -162.7591421875, 3.0228609374999991
+max: 155.13205937499998, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r0664
+INFO(indexer.cpp:1656): start indexing chunk r42404
+filesize: 4'157'860
+min: 155.13205937499998, -191.60162500000001, -6.5913000000000004
+max: 174.36038124999999, -172.37330312500001, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r066203
+INFO(indexer.cpp:1656): start indexing chunk r42406
+filesize: 215'671'120
+min: 155.13205937499998, -172.37330312500001, -6.5913000000000004
+max: 174.36038124999999, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r4220
+INFO(indexer.cpp:1656): start indexing chunk r42420
+filesize: 308'350'455
+min: 135.90373749999998, -153.14498125, -6.5913000000000004
+max: 155.13205937499998, -133.91665937499999, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42404
+INFO(indexer.cpp:1656): start indexing chunk r42422
+filesize: 210
+min: 135.90373749999998, -133.91665937499999, -6.5913000000000004
+max: 155.13205937499998, -114.68833750000002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42422
+INFO(indexer.cpp:1656): start indexing chunk r42424
+filesize: 72'600'010
+min: 155.13205937499998, -153.14498125, -6.5913000000000004
+max: 174.36038124999999, -133.91665937499999, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r4224
+INFO(indexer.cpp:1656): start indexing chunk r42426
+filesize: 1'190
+min: 155.13205937499998, -133.91665937499999, -6.5913000000000004
+max: 174.36038124999999, -114.68833750000002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42426
+INFO(indexer.cpp:1656): start indexing chunk r42440
+filesize: 7'059'675
+min: 174.36038124999999, -191.60162500000001, -6.5913000000000004
+max: 193.58870312499999, -172.37330312500001, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42440
+INFO(indexer.cpp:1656): start indexing chunk r42442
+filesize: 157'230'045
+min: 174.36038124999999, -172.37330312500001, -6.5913000000000004
+max: 193.58870312499999, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r424024
+INFO(indexer.cpp:1656): start indexing chunk r42443
+filesize: 35
+min: 174.36038124999999, -172.37330312500001, 12.637021874999999
+max: 193.58870312499999, -153.14498125, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r42443
+INFO(indexer.cpp:1656): start indexing chunk r42444
+filesize: 310'503'515
+min: 193.58870312499999, -191.60162500000001, -6.5913000000000004
+max: 212.81702499999997, -172.37330312500001, 12.637021874999999
 INFO(indexer.cpp:1699): finished indexing chunk r042
-INFO(indexer.cpp:1699): finished indexing chunk r06045
-INFO(indexer.cpp:1699): finished indexing chunk r0642
-INFO(indexer.cpp:1699): finished indexing chunk r060472
-INFO(indexer.cpp:1699): finished indexing chunk r4
-INFO(indexer.cpp:1699): finished indexing chunk r060436
-INFO(indexer.cpp:1699): finished indexing chunk r060470
-INFO(indexer.cpp:1699): finished indexing chunk r060462
-INFO(indexer.cpp:1699): finished indexing chunk r06064
-INFO(indexer.cpp:1699): finished indexing chunk r060460
-INFO(indexer.cpp:1699): finished indexing chunk r06065
-INFO(indexer.cpp:1699): finished indexing chunk r06061
-INFO(indexer.cpp:1699): finished indexing chunk r0640
-INFO(indexer.cpp:1699): finished indexing chunk r06060
+INFO(indexer.cpp:1656): start indexing chunk r42446
+filesize: 272'309'450
+min: 193.58870312499999, -172.37330312500001, -6.5913000000000004
+max: 212.81702499999997, -153.14498125, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r00
+INFO(indexer.cpp:1656): start indexing chunk r4246
+filesize: 3'147'270
+min: 174.36038124999999, -153.14498125, -6.5913000000000004
+max: 212.81702499999997, -114.68833750000002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r4246
+INFO(indexer.cpp:1656): start indexing chunk r4260
+filesize: 24'710'350
+min: 135.90373749999998, -114.68833750000002, -6.5913000000000004
+max: 174.36038124999999, -76.231693750000019, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r42266
+INFO(indexer.cpp:1656): start indexing chunk r42620
+filesize: 186'454'520
+min: 135.90373749999998, -76.231693750000019, -6.5913000000000004
+max: 155.13205937499998, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r424023
+INFO(indexer.cpp:1656): start indexing chunk r42622
+filesize: 46'598'160
+min: 135.90373749999998, -57.00337187500002, -6.5913000000000004
+max: 155.13205937499998, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42040
+INFO(indexer.cpp:1656): start indexing chunk r42624
+filesize: 130'112'500
+min: 155.13205937499998, -76.231693750000019, -6.5913000000000004
+max: 174.36038124999999, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06664
+INFO(indexer.cpp:1656): start indexing chunk r426260
+filesize: 51'372'510
+min: 155.13205937499998, -57.00337187500002, -6.5913000000000004
+max: 164.74622031249999, -47.389210937500025, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r06442
+INFO(indexer.cpp:1656): start indexing chunk r426261
+filesize: 19'581'240
+min: 155.13205937499998, -57.00337187500002, 3.0228609374999991
+max: 164.74622031249999, -47.389210937500025, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06464
+INFO(indexer.cpp:1699): finished indexing chunk r06460
+INFO(indexer.cpp:1656): start indexing chunk r426262
+filesize: 107'011'660
+min: 155.13205937499998, -47.389210937500025, -6.5913000000000004
+max: 164.74622031249999, -37.775050000000022, 3.0228609374999991
+INFO(indexer.cpp:1656): start indexing chunk r426263
+filesize: 37'885'610
+min: 155.13205937499998, -47.389210937500025, 3.0228609374999991
+max: 164.74622031249999, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r4260
+INFO(indexer.cpp:1699): finished indexing chunk r424025
+INFO(indexer.cpp:1656): start indexing chunk r426264
+filesize: 319'095
+min: 164.74622031249999, -57.00337187500002, -6.5913000000000004
+max: 174.36038124999999, -47.389210937500025, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r426264
+INFO(indexer.cpp:1656): start indexing chunk r426265
+filesize: 290'710
+min: 164.74622031249999, -57.00337187500002, 3.0228609374999991
+max: 174.36038124999999, -47.389210937500025, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r426265
+INFO(indexer.cpp:1656): start indexing chunk r426266
+filesize: 157'666'460
+min: 164.74622031249999, -47.389210937500025, -6.5913000000000004
+max: 174.36038124999999, -37.775050000000022, 3.0228609374999991
+INFO(indexer.cpp:1656): start indexing chunk r426267
+filesize: 52'517'045
+min: 164.74622031249999, -47.389210937500025, 3.0228609374999991
+max: 174.36038124999999, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r06624
+INFO(indexer.cpp:1656): start indexing chunk r4264
+filesize: 177'724'995
+min: 174.36038124999999, -114.68833750000002, -6.5913000000000004
+max: 212.81702499999997, -76.231693750000019, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r426261
+INFO(indexer.cpp:1656): start indexing chunk r42660
+filesize: 219'339'995
+min: 174.36038124999999, -76.231693750000019, -6.5913000000000004
+max: 193.58870312499999, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42622
+INFO(indexer.cpp:1656): start indexing chunk r42662
+filesize: 109'478'285
+min: 174.36038124999999, -57.00337187500002, -6.5913000000000004
+max: 193.58870312499999, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42046
+INFO(indexer.cpp:1699): finished indexing chunk r026
+INFO(indexer.cpp:1656): start indexing chunk r42664
+filesize: 321'027'105
+min: 193.58870312499999, -76.231693750000019, -6.5913000000000004
+max: 212.81702499999997, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r4206
+INFO(indexer.cpp:1656): start indexing chunk r426660
+filesize: 109'300'345
+min: 193.58870312499999, -57.00337187500002, -6.5913000000000004
+max: 203.2028640625, -47.389210937500025, 3.0228609374999991
+INFO(indexer.cpp:1656): start indexing chunk r426662
+filesize: 326'350'850
+min: 193.58870312499999, -47.389210937500025, -6.5913000000000004
+max: 203.2028640625, -37.775050000000022, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r06446
+INFO(indexer.cpp:1656): start indexing chunk r426663
+filesize: 14'893'445
+min: 193.58870312499999, -47.389210937500025, 3.0228609374999991
+max: 203.2028640625, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42424
+INFO(indexer.cpp:1656): start indexing chunk r426664
+filesize: 219'695
+min: 203.2028640625, -57.00337187500002, -6.5913000000000004
+max: 212.81702499999997, -47.389210937500025, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r426664
+INFO(indexer.cpp:1656): start indexing chunk r426666
+filesize: 66'482'360
+min: 203.2028640625, -47.389210937500025, -6.5913000000000004
+max: 212.81702499999997, -37.775050000000022, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r40664
+INFO(indexer.cpp:1699): finished indexing chunk r40666
+INFO(indexer.cpp:1656): start indexing chunk r426667
+filesize: 29'046'885
+min: 203.2028640625, -47.389210937500025, 3.0228609374999991
+max: 212.81702499999997, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r44
+filesize: 614'670
+min: 212.81702499999997, -345.4282, -6.5913000000000004
+max: 366.64359999999999, -191.60162500000001, 147.235275
+INFO(indexer.cpp:1699): finished indexing chunk r44
+INFO(indexer.cpp:1656): start indexing chunk r4600
+filesize: 304'221'085
+min: 212.81702499999997, -191.60162500000001, -6.5913000000000004
+max: 251.27366874999996, -153.14498125, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r426260
+INFO(indexer.cpp:1656): start indexing chunk r4602
+filesize: 59'210'130
+min: 212.81702499999997, -153.14498125, -6.5913000000000004
+max: 251.27366874999996, -114.68833750000002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r426263
+INFO(indexer.cpp:1656): start indexing chunk r4604
+filesize: 162'804'005
+min: 251.27366874999996, -191.60162500000001, -6.5913000000000004
+max: 289.73031249999997, -153.14498125, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r426663
+INFO(indexer.cpp:1656): start indexing chunk r4606
+filesize: 248'120'810
+min: 251.27366874999996, -153.14498125, -6.5913000000000004
+max: 289.73031249999997, -114.68833750000002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r244
+INFO(indexer.cpp:1656): start indexing chunk r4620
+filesize: 25'940'670
+min: 212.81702499999997, -114.68833750000002, -6.5913000000000004
+max: 251.27366874999996, -76.231693750000019, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r424027
+INFO(indexer.cpp:1656): start indexing chunk r46220
+filesize: 137'309'550
+min: 212.81702499999997, -76.231693750000019, -6.5913000000000004
+max: 232.04534687499995, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r426667
+INFO(indexer.cpp:1656): start indexing chunk r46221
+filesize: 3'579'170
+min: 212.81702499999997, -76.231693750000019, 12.637021874999999
+max: 232.04534687499995, -57.00337187500002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r46221
+INFO(indexer.cpp:1656): start indexing chunk r46222
+filesize: 148'378'475
+min: 212.81702499999997, -57.00337187500002, -6.5913000000000004
+max: 232.04534687499995, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r426267
+INFO(indexer.cpp:1656): start indexing chunk r46223
+filesize: 3'279'255
+min: 212.81702499999997, -57.00337187500002, 12.637021874999999
+max: 232.04534687499995, -37.775050000000022, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r4620
+INFO(indexer.cpp:1656): start indexing chunk r46224
+filesize: 47'990'740
+min: 232.04534687499995, -76.231693750000019, -6.5913000000000004
+max: 251.27366874999996, -57.00337187500002, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r46223
+INFO(indexer.cpp:1656): start indexing chunk r46225
+filesize: 8'669'990
+min: 232.04534687499995, -76.231693750000019, 12.637021874999999
+max: 251.27366874999996, -57.00337187500002, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r240
+INFO(indexer.cpp:1656): start indexing chunk r46226
+filesize: 103'863'620
+min: 232.04534687499995, -57.00337187500002, -6.5913000000000004
+max: 251.27366874999996, -37.775050000000022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r46225
+INFO(indexer.cpp:1656): start indexing chunk r46227
+filesize: 9'154'530
+min: 232.04534687499995, -57.00337187500002, 12.637021874999999
+max: 251.27366874999996, -37.775050000000022, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r0462
+INFO(indexer.cpp:1656): start indexing chunk r4624
+filesize: 218'336'895
+min: 251.27366874999996, -114.68833750000002, -6.5913000000000004
+max: 289.73031249999997, -76.231693750000019, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r426666
+INFO(indexer.cpp:1656): start indexing chunk r4626
+filesize: 263'069'380
+min: 251.27366874999996, -76.231693750000019, -6.5913000000000004
+max: 289.73031249999997, -37.775050000000022, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r024
+INFO(indexer.cpp:1656): start indexing chunk r464
+filesize: 3'696'630
+min: 289.73031249999997, -191.60162500000001, -6.5913000000000004
+max: 366.64359999999999, -114.68833750000002, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r0662027
+INFO(indexer.cpp:1656): start indexing chunk r466
+filesize: 4'259'115
+min: 289.73031249999997, -114.68833750000002, -6.5913000000000004
+max: 366.64359999999999, -37.775050000000022, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r424026
+INFO(indexer.cpp:1656): start indexing chunk r6000
+filesize: 162'106'350
+min: 58.990449999999981, -37.775050000000022, -6.5913000000000004
+max: 97.447093749999979, 0.68159374999997624, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r464
+INFO(indexer.cpp:1656): start indexing chunk r6002
+filesize: 9'753'870
+min: 58.990449999999981, 0.68159374999997624, -6.5913000000000004
+max: 97.447093749999979, 39.138237499999974, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r4602
+INFO(indexer.cpp:1656): start indexing chunk r60040
+filesize: 209'295'135
+min: 97.447093749999979, -37.775050000000022, -6.5913000000000004
+max: 116.67541562499997, -18.546728125000023, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r46227
+INFO(indexer.cpp:1699): finished indexing chunk r466
+INFO(indexer.cpp:1656): start indexing chunk r60042
+filesize: 348'234'915
+min: 97.447093749999979, -18.546728125000023, -6.5913000000000004
+max: 116.67541562499997, 0.68159374999997624, 12.637021874999999
+INFO(indexer.cpp:1656): start indexing chunk r60044
+filesize: 455'630
+min: 116.67541562499997, -37.775050000000022, -6.5913000000000004
+max: 135.90373749999998, -18.546728125000023, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r60044
+INFO(indexer.cpp:1656): start indexing chunk r60046
+filesize: 97'930
+min: 116.67541562499997, -18.546728125000023, -6.5913000000000004
+max: 135.90373749999998, 0.68159374999997624, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r60046
+INFO(indexer.cpp:1656): start indexing chunk r6006
+filesize: 109'055'625
+min: 97.447093749999979, 0.68159374999997624, -6.5913000000000004
+max: 135.90373749999998, 39.138237499999974, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r42442
+INFO(indexer.cpp:1656): start indexing chunk r602
+filesize: 66'675
+min: 58.990449999999981, 39.138237499999974, -6.5913000000000004
+max: 135.90373749999998, 116.05152499999997, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r602
+INFO(indexer.cpp:1656): start indexing chunk r6040
+filesize: 182'309'155
+min: 135.90373749999998, -37.775050000000022, -6.5913000000000004
+max: 174.36038124999999, 0.68159374999997624, 31.865343749999997
+INFO(indexer.cpp:1699): finished indexing chunk r42624
+INFO(indexer.cpp:1699): finished indexing chunk r6002
+INFO(indexer.cpp:1656): start indexing chunk r6042
+filesize: 684'355
+min: 135.90373749999998, 0.68159374999997624, -6.5913000000000004
+max: 174.36038124999999, 39.138237499999974, 31.865343749999997
+INFO(indexer.cpp:1656): start indexing chunk r60440
+filesize: 193'505'795
+min: 174.36038124999999, -37.775050000000022, -6.5913000000000004
+max: 193.58870312499999, -18.546728125000023, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r6042
+INFO(indexer.cpp:1656): start indexing chunk r604440
+filesize: 105'950'075
+min: 193.58870312499999, -37.775050000000022, -6.5913000000000004
+max: 203.2028640625, -28.160889062500022, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r426262
+INFO(indexer.cpp:1656): start indexing chunk r604441
+filesize: 45'770'690
+min: 193.58870312499999, -37.775050000000022, 3.0228609374999991
+max: 203.2028640625, -28.160889062500022, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42264
+INFO(indexer.cpp:1656): start indexing chunk r604442
+filesize: 157'518'865
+min: 193.58870312499999, -28.160889062500022, -6.5913000000000004
+max: 203.2028640625, -18.546728125000023, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r46224
+INFO(indexer.cpp:1656): start indexing chunk r604443
+filesize: 62'268'360
+min: 193.58870312499999, -28.160889062500022, 3.0228609374999991
+max: 203.2028640625, -18.546728125000023, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42260
+INFO(indexer.cpp:1656): start indexing chunk r604446
+filesize: 380'765
+min: 203.2028640625, -28.160889062500022, -6.5913000000000004
+max: 212.81702499999997, -18.546728125000023, 3.0228609374999991
+INFO(indexer.cpp:1699): finished indexing chunk r604446
+INFO(indexer.cpp:1656): start indexing chunk r60446
+filesize: 275'117'045
+min: 193.58870312499999, -18.546728125000023, -6.5913000000000004
+max: 212.81702499999997, 0.68159374999997624, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r426660
+INFO(indexer.cpp:1656): start indexing chunk r60460
+filesize: 3'710
+min: 174.36038124999999, 0.68159374999997624, -6.5913000000000004
+max: 193.58870312499999, 19.909915624999975, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r60460
+INFO(indexer.cpp:1656): start indexing chunk r60462
+filesize: 244'657'035
+min: 174.36038124999999, 19.909915624999975, -6.5913000000000004
+max: 193.58870312499999, 39.138237499999974, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42620
+INFO(indexer.cpp:1656): start indexing chunk r60464
+filesize: 215'225'500
+min: 193.58870312499999, 0.68159374999997624, -6.5913000000000004
+max: 212.81702499999997, 19.909915624999975, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r42662
+INFO(indexer.cpp:1656): start indexing chunk r60466
+filesize: 206'543'750
+min: 193.58870312499999, 19.909915624999975, -6.5913000000000004
+max: 212.81702499999997, 39.138237499999974, 12.637021874999999
+INFO(indexer.cpp:1699): finished indexing chunk r0662023
+INFO(indexer.cpp:1656): start indexing chunk r606
+filesize: 101'640'910
+min: 135.90373749999998, 39.138237499999974, -6.5913000000000004
+max: 212.81702499999997, 116.05152499999997, 70.321987499999992
+INFO(indexer.cpp:1699): finished indexing chunk r42042
+INFO(indexer.cpp:1656): start indexing chunk r62
+filesize: 13'160
+min: 58.990449999999981, 116.05152499999997, -6.5913000000000004
+max: 212.81702499999997, 269.87809999999996, 147.235275
+INFO(indexer.cpp:1699): finished indexing chunk r62
+INFO(indexer.cpp:1656): start indexing chunk r64
+filesize: 105'315'035
+min: 212.81702499999997, -37.775050000000022, -6.5913000000000004
+max: 366.64359999999999, 116.05152499999997, 147.235275
+INFO(indexer.cpp:1699): finished indexing chunk r604441
+INFO(indexer.cpp:1656): start indexing chunk r66
+filesize: 2'275
+min: 212.81702499999997, 116.05152499999997, -6.5913000000000004
+max: 366.64359999999999, 269.87809999999996, 147.235275
+INFO(indexer.cpp:1699): finished indexing chunk r66
+INFO(indexer.cpp:1699): finished indexing chunk r4200
+INFO(indexer.cpp:1699): finished indexing chunk r42406
+INFO(indexer.cpp:1699): finished indexing chunk r4604
+INFO(indexer.cpp:1699): finished indexing chunk r46220
+INFO(indexer.cpp:1699): finished indexing chunk r46226
+INFO(indexer.cpp:1699): finished indexing chunk r426266
+INFO(indexer.cpp:1699): finished indexing chunk r4264
+INFO(indexer.cpp:1699): finished indexing chunk r604443
+INFO(indexer.cpp:1699): finished indexing chunk r42660
+INFO(indexer.cpp:1699): finished indexing chunk r4222
+INFO(indexer.cpp:1699): finished indexing chunk r6006
+INFO(indexer.cpp:1699): finished indexing chunk r604440
+INFO(indexer.cpp:1699): finished indexing chunk r46222
+INFO(indexer.cpp:1699): finished indexing chunk r42446
+INFO(indexer.cpp:1699): finished indexing chunk r42262
+INFO(indexer.cpp:1699): finished indexing chunk r64
+INFO(indexer.cpp:1699): finished indexing chunk r606
+INFO(indexer.cpp:1699): finished indexing chunk r60440
+INFO(indexer.cpp:1699): finished indexing chunk r6000
+INFO(indexer.cpp:1699): finished indexing chunk r4624
+INFO(indexer.cpp:1699): finished indexing chunk r604442
+INFO(indexer.cpp:1699): finished indexing chunk r42444
+INFO(indexer.cpp:1699): finished indexing chunk r42420
+INFO(indexer.cpp:1699): finished indexing chunk r4606
+INFO(indexer.cpp:1699): finished indexing chunk r6040
+INFO(indexer.cpp:1699): finished indexing chunk r42664
+INFO(indexer.cpp:1699): finished indexing chunk r60040
+INFO(indexer.cpp:1699): finished indexing chunk r60464
+INFO(indexer.cpp:1699): finished indexing chunk r4626
+INFO(indexer.cpp:1699): finished indexing chunk r4600
+INFO(indexer.cpp:1699): finished indexing chunk r426662
+INFO(indexer.cpp:1699): finished indexing chunk r60462
+INFO(indexer.cpp:1699): finished indexing chunk r60466
+INFO(indexer.cpp:1699): finished indexing chunk r60446
+INFO(indexer.cpp:1699): finished indexing chunk r60042

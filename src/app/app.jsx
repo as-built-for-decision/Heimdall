@@ -4,7 +4,7 @@ import Main from "./components/Main";
 import { useSceneStore } from "@/store/useSceneStore";
 import { MeshStandardMaterial, Raycaster, Vector2 } from "three";
 
-const initPotree = () => {
+const initPotree = (tools) => {
   if (typeof document === "undefined") return null;
 
   const viewer = new Potree.Viewer(
@@ -17,12 +17,13 @@ const initPotree = () => {
   viewer.loadSettingsFromURL();
   viewer.setBackground("skybox");
 
-  viewer.loadGUI(() => {
-    viewer.setLanguage("en");
-    $("#menu_tools").next().show();
-    $("#menu_clipping").next().show();
-    viewer.toggleSidebar();
-  });
+  if (tools === true)
+    viewer.loadGUI(() => {
+      viewer.setLanguage("en");
+      $("#menu_tools").next().show();
+      $("#menu_clipping").next().show();
+      viewer.toggleSidebar();
+    });
 
   Potree.loadPointCloud("./pointclouds/metadata.json", "test", (e) => {
     const scene = viewer.scene;
@@ -80,7 +81,7 @@ const onBubbleSelect = (event, camera, scene, raycaster, mouse, selected) => {
   return null;
 };
 
-export default function PotreeApp() {
+export default function PotreeApp({ tools }) {
   const {
     setCamera,
     setViewer,
@@ -96,7 +97,7 @@ export default function PotreeApp() {
   const mouseDown = useRef(null);
 
   useEffect(() => {
-    const potreeInstance = initPotree();
+    const potreeInstance = initPotree(tools);
     setCamera(potreeInstance.camera);
     setScene(potreeInstance.scene);
     setViewer(potreeInstance.viewer);
