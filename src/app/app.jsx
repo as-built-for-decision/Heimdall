@@ -1,8 +1,8 @@
 "use client";
-import React, { useEffect, useMemo, useRef } from "react";
+import React, { useEffect } from "react";
 import Main from "./components/Main";
 import { useSceneStore } from "@/store/useSceneStore";
-import { MeshStandardMaterial, Raycaster, Vector2 } from "three";
+import PointerEvents from "@/wrappers/PointerWrapper";
 
 const initPotree = (tools) => {
   if (typeof document === "undefined") return null;
@@ -17,15 +17,15 @@ const initPotree = (tools) => {
   viewer.loadSettingsFromURL();
   viewer.setBackground("skybox");
 
-  if (tools === true)
+  if (tools === true) {
     viewer.loadGUI(() => {
       viewer.setLanguage("en");
       $("#menu_tools").next().show();
       $("#menu_clipping").next().show();
-      viewer.toggleSidebar();
     });
+  }
 
-  Potree.loadPointCloud("./pointclouds/metadata.json", "test", (e) => {
+  Potree.loadPointCloud("./pointclouds/metadata.json", "full_scan", (e) => {
     const scene = viewer.scene;
     const pointcloud = e.pointcloud;
 
@@ -48,53 +48,8 @@ const initPotree = (tools) => {
   };
 };
 
-const mouseDownMaterial = new MeshStandardMaterial({
-  color: 0xff0000,
-  emissive: 0xffffff,
-});
-
-const mouseUpMaterial = new MeshStandardMaterial({
-  color: 0xff0000,
-  emissive: 0xff0000,
-});
-
-const onBubbleSelect = (event, camera, scene, raycaster, mouse, selected) => {
-  // Update mouse coordinates
-  mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
-  mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
-
-  // Perform raycast
-  raycaster.setFromCamera(mouse, camera);
-  const intersects = raycaster.intersectObjects(scene.children, true);
-
-  if (intersects.length > 0) {
-    const intersectedObject = intersects[0].object;
-
-    if (selected === intersectedObject) {
-      intersectedObject.material = mouseUpMaterial;
-    } else {
-      if (selected) selected.material = mouseUpMaterial;
-      intersectedObject.material = mouseDownMaterial;
-    }
-    return intersectedObject;
-  }
-  return null;
-};
-
 export default function PotreeApp({ tools }) {
-  const {
-    setCamera,
-    setViewer,
-    setScene,
-    setCameraPosition,
-    cameraPosition,
-    camera,
-    scene,
-    viewer,
-  } = useSceneStore();
-  const raycaster = useRef(new Raycaster());
-  const mouse = useRef(new Vector2());
-  const mouseDown = useRef(null);
+  const { setCamera, setViewer, setScene } = useSceneStore();
 
   useEffect(() => {
     const potreeInstance = initPotree(tools);
@@ -103,49 +58,10 @@ export default function PotreeApp({ tools }) {
     setViewer(potreeInstance.viewer);
   }, [setCamera, setScene, setViewer]);
 
-  useMemo(() => {
-    if (!camera || !scene || !viewer) return;
-
-    const handlePointerDown = (event) => {
-      mouseDown.current = onBubbleSelect(
-        event,
-        camera,
-        scene,
-        raycaster.current,
-        mouse.current,
-        mouseDown.current
-      );
-    };
-
-    const handlePointerUp = (event) => {
-      mouseDown.current = onBubbleSelect(
-        event,
-        camera,
-        scene,
-        raycaster.current,
-        mouse.current,
-        mouseDown.current
-      );
-      if (mouseDown.current) {
-        setCameraPosition(mouseDown.current.position);
-      }
-    };
-
-    window.addEventListener("pointerdown", handlePointerDown);
-    window.addEventListener("pointerup", handlePointerUp);
-
-    return () => {
-      window.removeEventListener("pointerdown", handlePointerDown);
-      window.removeEventListener("pointerup", handlePointerUp);
-    };
-  }, [camera, scene, viewer, setCameraPosition]);
-
-  useEffect(() => {
-    if (!camera || !scene || !viewer) return;
-
-    viewer.scene.view.position = cameraPosition;
-    viewer.scene.view.lookAt(cameraPosition);
-  }, [cameraPosition, camera, scene, viewer]);
-
-  return <Main />;
+  return (
+    <>
+      <Main />
+      <PointerEvents />
+    </>
+  );
 }

@@ -2,24 +2,18 @@
 import React, { useEffect, useRef, Suspense, useState } from "react";
 import { createRoot, Root } from "react-dom/client";
 import PotreeApp from "./app";
-import { usePathname, useSearchParams } from 'next/navigation'
+import { useSearchParams } from 'next/navigation'
 
 let root: Root | null;
 const Page = () => {
   const containerRef = useRef(null);
-  const pathname = usePathname()
   const searchParams = useSearchParams()
   const [tools, setTools] = useState<boolean>(null!);
  
   useEffect(() => {
-    const url = `${pathname}?${searchParams}`;
-    console.log(url);
-
-    // Extract 'tools' from search parameters
     const toolsParam = searchParams.get('tools') === "true";
     setTools(toolsParam);
-
-  }, [pathname, searchParams]);
+  }, [searchParams]);
 
   useEffect(() => {
     if (root || tools === null) return;

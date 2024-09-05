@@ -4,18 +4,17 @@ import { parseCoordinates, Coordinate } from "@/utils/constants";
 import { MeshProps } from "@react-three/fiber";
 import { useSceneStore } from "@/store/useSceneStore";
 import * as THREE from "three";
+import { mouseUpMaterial } from "@/utils/materials";
 
 function Main() {
   const [coordinates, setCoordinates] = useState<Coordinate[]>(null!);
-  const [selectedCoordinate, setSelectedCoordinate] = useState<Coordinate>(
-    null!
-  );
+  const [selected, setSelected] = useState<Coordinate>(null!);
   const { setCameraPosition } = useSceneStore();
 
   // useEffect(() => {
-  //   if (!selectedCoordinate) return;
-  //   setCameraPosition(selectedCoordinate.position);
-  // }, [selectedCoordinate]);
+  //   if (!selected) return;
+  //   setCameraPosition(selected.position);
+  // }, [selected]);
 
   useEffect(() => {
     setCameraPosition(
@@ -39,7 +38,7 @@ function Main() {
       {coordinates && (
         <Potree360Points
           coordinates={coordinates}
-          onSelect={setSelectedCoordinate}
+          onSelect={setSelected}
         />
       )}
     </div>
@@ -76,12 +75,7 @@ interface SphereProps extends MeshProps {
 function addSphere({ scene, position }: SphereProps) {
   position ??= new THREE.Vector3(0, 0, 0);
   const testSphere = new THREE.IcosahedronGeometry(0.5, 3);
-  const testMaterial = new THREE.MeshStandardMaterial({
-    color: 0xff0000,
-    side: THREE.FrontSide,
-    emissive: 0xff0000,
-  });
-  const testMesh = new THREE.Mesh(testSphere, testMaterial);
+  const testMesh = new THREE.Mesh(testSphere, mouseUpMaterial);
   testMesh.position.set(position.x, position.y, position.z);
   scene.add(testMesh);
   return testMesh;

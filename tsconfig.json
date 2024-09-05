@@ -23,6 +23,7 @@
       "@/store/*": ["store/*"],
       "@/components/*": ["app/components/*"],
       "@/libs/*": ["../public/libs/*"],
+      "@/wrappers/*":["wrappers/*"]
     },
     "plugins": [
       {
