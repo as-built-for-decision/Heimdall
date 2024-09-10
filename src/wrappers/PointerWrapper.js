@@ -79,7 +79,7 @@ export default function PointerEventsWrapper() {
         mouseDown.current,
         (object) => {
           if (!mouseOver.current) return;
-          //   console.log("handlePointerUp", object);
+          console.log("handlePointerUp", object);
           if (mouseOver.current.uuid == object.uuid) {
             mouseOver.current.material = mouseUpMaterial;
             lastSelected.current = null;

@@ -68,10 +68,10 @@ async function downloadIntoMemory(path, fileName) {
 // }
 
 exports.octree = onRequest({ cors: true, timeoutSeconds: 90 }, async (req, res) => {
-	const { id } = req.body.data;
-	console.log(id)
-	const content = await getStorage(app).bucket("gs://ab4d-9af1a").file("pointcloudsV02/pointclouds/2024Pedras/2024Pedras00000_0,08156197518110275_2,2479958534240723_1,2305452823638916/octree.bin").download()
-	res.send({ data: content })
+	const { fileName } = req.body.data;
+	console.log(fileName)
+	const content = await getStorage(app).bucket("gs://ab4d-9af1a").file(`pointcloudsV02/pointclouds/2024Pedras_guid/processed/${fileName}`).download()
+	res.send({ data: content.toString("base64") })
 	return content
 })
 
